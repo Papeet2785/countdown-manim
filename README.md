@@ -28,7 +28,7 @@ This project is intended to be run inside the project's Nix development environm
 Enter the development shell:
 
 ```bash
-nix develop countdown-manim
+nix develop
 ```
 To render the video:
 
