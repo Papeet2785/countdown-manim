@@ -14,7 +14,7 @@ The animation features:
 - Individual digit highlighting
 - A zoom-out transition
 - A large white transition block
-- A final **"Made by Prateep"** title card
+- A final **"Made by Papeet2785"** title card
 
 ## Requirements
 

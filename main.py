@@ -19,7 +19,7 @@ class countdown(Scene):
         t3 = Text("9").next_to(r5, UP, buff = 0.5).scale(1.5)
         t4 = Text("8").next_to(r6, UP, buff = 0.5).scale(1.5)
         t5 = Text("0").next_to(r7, UP, buff = 0.5).scale(1.5)
-        t6 = Text("Made by Prateep", color=BLUE_B)
+        t6 = Text("Made by Papeet2785", color=BLUE_B)
         s3 = SurroundingRectangle(t6, color=WHITE)
         t = VGroup(t1, t2, t3, t4, t5)
         g3 = VGroup(t, g2, s1, s2)
