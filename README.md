@@ -21,14 +21,12 @@ The animation features:
 - Python 3
 - Manim Community Edition
 
-This project is intended to be run inside the project's Nix development environment.
-
 ## Running the Animation
 
-Enter the development shell:
+Use manim and python dependencies:
 
 ```bash
-nix develop
+uv sync
 ```
 To render the video:
 
